@@ -1,4 +1,2 @@
-# public
-My public repository.
-
-This is my first attempt at a github repository!
+# Base Public Project
+It's in that place where I put that thing that time.
